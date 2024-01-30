@@ -1,7 +1,7 @@
 # Introduction to Programming in Python
 
 ### Abstract
-Code for exercises proposed in [UCM CFI Python Training Course](https://cursosinformatica.ucm.es/curso-introduccion-programacion.html)
+Code for exercises proposed in [UCM CFI Python Training Course](https://cursosinformatica.ucm.es/curso-introduccion-programacion.html).
 
 ### Content of the course
 - Introduction and tools: Introduction to the Python programming language. Installation of Python and the Pycharm environment. A first example of a program.
